@@ -16,6 +16,10 @@ This repository contains the basic concepts of OpenCV, learned in a Udemy course
    git clone https://github.com/AlexandreTommasi/OpenCV-Essentials.git
    cd OpenCV-Essentials
 
+2. Install Opencv
+   ```bash
+   pip install opencv-python
+
 
 
 # OpenCV Essentials 🚀
@@ -35,5 +39,9 @@ Este repositório contém os conceitos básicos do OpenCV, aprendidos em um curs
    ```bash
    git clone https://github.com/AlexandreTommasi/OpenCV-Essentials.git
    cd OpenCV-Essentials
+   
+2. Instale o Opencv
+   ```bash
+   pip install opencv-python
 
 

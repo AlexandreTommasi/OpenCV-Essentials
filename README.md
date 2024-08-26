@@ -1,5 +1,25 @@
 # OpenCV Essentials 🚀
 
+This repository contains the basic concepts of OpenCV, learned in a Udemy course. Here you will find practical examples of image manipulation, including color changes, shape and text creation, and image binarization.
+
+## 📖 Content
+
+- **Image Color Change** 🎨: How to convert images to different color spaces, such as RGB to Grayscale.
+- **Shape and Text Creation** ✏️: How to draw geometric shapes (rectangles, circles, lines) and add text to images.
+- **Image Binarization** 🔲: How to transform an image into black and white using thresholding techniques.
+
+## 🔧 How to Use
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/AlexandreTommasi/OpenCV-Essentials.git
+   cd OpenCV-Essentials
+
+
+
+# OpenCV Essentials 🚀
+
 Este repositório contém os conceitos básicos do OpenCV, aprendidos em um curso na Udemy. Aqui você encontrará exemplos práticos de como manipular imagens, incluindo mudanças de cores, criação de formas e textos, e binarização de imagens.
 
 ## 📖 Conteúdo
@@ -15,3 +35,5 @@ Este repositório contém os conceitos básicos do OpenCV, aprendidos em um curs
    ```bash
    git clone https://github.com/AlexandreTommasi/OpenCV-Essentials.git
    cd OpenCV-Essentials
+
+
